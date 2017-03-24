@@ -6,3 +6,5 @@ It is also available to copy for anyone that wants to.  The reason I wrote my ow
 It is called the short open license because I wrote it to be short and easy to understand.  I also wanted to outline a few rules for the use of my software that I want to be honored.
 
 That's about it.  What you see is what you get.
+
+dman out
