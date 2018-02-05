@@ -21,6 +21,6 @@ All work is open sourced and can be copied, distributed, or modified under the f
 **Any software covered under this license is provided with NO WARRANTY.
 The owner of the software can never be held liable for ANY damage caused by use of the software.**
 
-*(The software that is protected under this license is referred to as "the software" or "this software")*
+*(The software that is protected under this license is referred to as "the software" or "this software")
 
-*(Software projects that use this software or parts of it are referred to as "copied works")*
+*(Software projects that use this software or parts of it are referred to as "copied works")
