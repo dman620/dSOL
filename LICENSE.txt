@@ -23,4 +23,4 @@ The owner of the software can never be held liable for ANY damage caused by use 
 
 *(The software that is protected under this license is referred to as "the software" or "this software")
 
-**(Software projects that use this software or parts of it are referred to as "copied works")
+*(Software projects that use this software or parts of it are referred to as "copied works")
