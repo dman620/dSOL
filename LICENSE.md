@@ -1,14 +1,14 @@
-#DEREK'S SIMPLE OPEN LICENSE (dSOL)
+# DEREK'S SIMPLE OPEN LICENSE (dSOL)
 
 **version 01 (March 04, 2017)**
 
 *Copyright(C) year name name (email)*
 
-####Regarding this license itself:
+#### Regarding this license itself:
 Anyone can modify and distribute this license as they see fit.
 However, if the terms of the license are changed, then the name of the license must also be changed.
 
-####Regarding the software that is being protected by this license:
+#### Regarding the software that is being protected by this license:
 All work is open sourced and can be copied, distributed, or modified under the following terms:
 
     1. The software* or any copied works* must include a copy of this license, as well as either
@@ -21,6 +21,6 @@ All work is open sourced and can be copied, distributed, or modified under the f
 **Any software covered under this license is provided with NO WARRANTY.
 The owner of the software can never be held liable for ANY damage caused by use of the software.**
 
-*(The software that is protected under this license is referred to as "the software" or "this software")
+*(The software that is protected under this license is referred to as "the software" or "this software")*
 
-**(Software projects that use this software or parts of it are referred to as "copied works")
+*(Software projects that use this software or parts of it are referred to as "copied works")*
